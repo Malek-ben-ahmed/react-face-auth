@@ -1,0 +1,43 @@
+
+.sigup{
+    margin-left:500px ;
+    margin-right:500px ;
+    margin-top: 0px;
+    
+}
+h2{
+    margin-left: 90px;
+}
+h3{
+   margin-left: 75px;
+}
+input{
+    background-color: rgba(240, 255, 255, 0.263);
+    border-radius: 8px;
+    border: 1px solid transparent;
+    height: 25px;
+    width: 300px;
+}
+input:hover{
+    border-color: #646cff;
+}
+#buttonforsignup{
+margin-left: 118px;
+}
+#buttonforcapture{
+margin-left: 90px;
+}
+video{
+margin-left: 55px;
+}
+img{
+    margin-left: 72px;
+}
+.icon{
+    margin-left: -70px;
+    height: 19px;
+    
+}
+i{
+    margin-left: -30px;
+}
